@@ -1,0 +1,31 @@
+#titulo {
+    color: rgb(71, 255, 80);
+}
+
+p.especial {
+    color: mediumseagreen;
+}
+
+p.texto {
+    color: slateblue;
+}
+
+div p {
+    color: rgb(138, 255, 127);
+}
+
+div h2,
+div h3 {
+    color: red;
+}
+
+* {
+    font-size: 25px;
+    color: black;
+}
+
+/* este es un comentario de ejemplo */
+
+.color {
+    color: #0f0;
+}
